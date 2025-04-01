@@ -1,0 +1,5 @@
+1- remove the necessity of executing the tasks inside each job in ist defined order, while still does not have overlap
+between the tasks of each job
+
+2- removing the necessity of defining the machin in input data and it decide in optimization
+
